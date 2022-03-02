@@ -4,8 +4,7 @@ This program allows users to generate a list of movie,add new movie into the lis
 generate random movies and generate by years then save all changes to the text file.
 
 Sep 30,2021
-
-Mengdan Liu
+Liu
 
 To run the program:
 Press the Win key + X hotkey and select Command Prompt (Admin) to open it as administrator.
